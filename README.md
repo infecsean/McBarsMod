@@ -1,5 +1,5 @@
 # McBarsMod
-A DRG Mod that adds the Minecraft Health &amp; Armor Bars
+A DRG Mod that adds the Minecraft Health &amp; Armor Bars. [Mod link](https://mod.io/g/drg/m/mcbars)
 
 I'm assuming you the viewer have basic knowledge of Blueprint modding, since I uploaded this mainly for people to learn or see how things work or debug.
 If you aren't familiar, you can follow [this guide](https://mod.io/g/drg/r/drg-basic-modding-guide) for basic modding and [this guide](https://mod.io/g/drg/r/how-to-blueprint-mod) for BP modding.
@@ -40,3 +40,6 @@ That leaves 3 files left:
     - When shake, set all offset to be randomly true/false
     - When regenerate, set all offset to false increment the regen index, then offset the heart/armor at that index
       - This creates that effect where the entire regen animation is over an entire cycle of animation
+
+### Usage
+Feel free to use this for anything you want! Of course reuploading it whole is not appreciated (I will visit you).
