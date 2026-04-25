@@ -7,7 +7,7 @@ If you aren't familiar, you can follow [this guide](https://mod.io/g/drg/r/drg-b
 ### How to open:
 - Have Unreal Editor V4.27.2
 - If you have the FSD-Template, go to next step, if not, follow the two guides above to see how to set it up from [this repo](https://github.com/DRG-Modding/FSD-Template)
-- Put the 3 folders in the Content folder
+- Put the 3 folders in the Content folder (If you already have ModHub and DRGLib, then only pull the Bar folder to the content folder)
 
 ### File Structure
 ModHub and DRGLib are dependencies.
