@@ -40,6 +40,9 @@ That leaves 3 files left:
     - When shake, set all offset to be randomly true/false
     - When regenerate, set all offset to false increment the regen index, then offset the heart/armor at that index
       - This creates that effect where the entire regen animation is over an entire cycle of animation
+     
+### Compatabilities
+This mod does not modify any game files, so there shouldn't be any conflict issues.
 
 ### Usage
 Feel free to use this for anything you want! Of course reuploading it whole is not appreciated (I will visit you).
